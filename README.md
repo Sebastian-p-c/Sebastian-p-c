@@ -1,12 +1,23 @@
-<p align="center">
-  <img src="./assets/banner.png" width="100%" alt="Sebastián Porma Campos — Estudiante de Ingeniería Informática, Duoc UC. Ciberseguridad IT/OT, CTF y automatización. Santiago, Chile." />
-</p>
+<picture>
+  <source media="(max-width: 1000px)" srcset="./assets/banner-mobile.png" />
+  <img src="./assets/banner-desktop.svg" width="100%" alt="Hola, soy Sebastián Porma Campos. Estudiante de Ingeniería Informática · Duoc UC. Ciberseguridad IT/OT · Linux · CTF · Automatización." />
+</picture>
+
+<picture>
+  <source media="(max-width: 1000px)" srcset="./assets/dashboard-mobile.svg" />
+  <img src="./assets/dashboard.svg" width="100%" alt="Sobre mí: estudiante de Ingeniería Informática en Duoc UC. Tecnologías: Python, TypeScript, Bash, Linux, redes, Nmap, Docker, Git, React, PostgreSQL, AWS IoT y ESP32. Comunidad: CTF Llaitún, CITT, Cyb4Students y Voxti. Tres primeros lugares: ChronosCTF, Desafío de Innovación Entel 5G y Botathon Duoc UC–Teletón. Proyectos: nmap-pretty, medidor de agua IoT y laboratorios IT/OT. Busco oportunidades en ciberseguridad junior, SOC N1 o infraestructura. Lee la trayectoria completa más abajo." />
+</picture>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sebasti%C3%A1n-fernando-porma-campos/">LinkedIn</a> &nbsp; · &nbsp;
-  <a href="mailto:sebastianporma.campos@gmail.com">Contacto profesional</a> &nbsp; · &nbsp;
-  <a href="https://github.com/Sebastian-p-c/nmap-pretty">nmap-pretty</a>
+  <a href="mailto:sebastianporma.campos@gmail.com"><img src="./assets/contact.svg" height="34" alt="Contacto por correo" /></a>
+  <a href="https://www.linkedin.com/in/sebasti%C3%A1n-fernando-porma-campos/"><img src="./assets/linkedin.svg" height="34" alt="LinkedIn" /></a>
+  <a href="https://github.com/Sebastian-p-c/nmap-pretty"><img src="./assets/nmap-pretty.svg" height="34" alt="Ver nmap-pretty" /></a>
 </p>
+
+<p align="center"><sub>Santiago, Chile · <a href="mailto:sebastianporma.campos@gmail.com">sebastianporma.campos@gmail.com</a></sub></p>
+
+<details>
+<summary><strong>Trayectoria completa, proyectos y certificaciones</strong></summary>
 
 ## Hola, soy Sebastián
 
@@ -15,8 +26,6 @@
 He colaborado en ejercicios de simulación de infraestructura crítica de **CTF Llaitún**, desarrollado soluciones con **Linux, Docker, Raspberry Pi, ESP32 y AWS**, y realizado ayudantías en el **CITT de Duoc UC**, capacitando paso a paso a docentes y estudiantes.
 
 > **Busco una oportunidad laboral en ciberseguridad junior, SOC N1, infraestructura o automatización.** Me interesa aportar a un equipo de forma estable mientras finalizo mis estudios.
-
-<img src="./assets/divider.svg" width="100%" alt="" />
 
 ## Experiencia aplicada
 
@@ -52,8 +61,6 @@ He colaborado en ejercicios de simulación de infraestructura crítica de **CTF 
 </table>
 
 ## Herramientas y tecnologías
-
-<img src="./assets/stack.svg" width="100%" alt="Python, Bash, Linux, Nmap, Docker, TypeScript, React, PostgreSQL, AWS IoT y Git/GitHub." />
 
 | Área | Experiencia y conocimientos |
 | :--- | :--- |
@@ -93,11 +100,9 @@ Escenarios de entrenamiento con Modbus TCP, semáforos, dispositivos embebidos, 
 **Santiago, Chile** · [sebastianporma.campos@gmail.com](mailto:sebastianporma.campos@gmail.com)  
 [LinkedIn](https://www.linkedin.com/in/sebasti%C3%A1n-fernando-porma-campos/) · [Proyecto público: nmap-pretty](https://github.com/Sebastian-p-c/nmap-pretty)
 
-<img src="./assets/divider.svg" width="100%" alt="" />
+</details>
 
 <picture>
   <source media="(prefers-reduced-motion: reduce)" srcset="./assets/terminal.png" />
-  <img src="./assets/terminal.gif" width="100%" alt="Animación de terminal: Sebastián Porma Campos, estudiante de Ingeniería Informática en Duoc UC. Ciberseguridad IT/OT, Linux, CTF y automatización. Aprender. Construir. Proteger." />
+  <img src="./assets/terminal.gif" width="100%" alt="Terminal animada: Sebastián Porma Campos. Estudiante de Ingeniería Informática, Duoc UC. Ciberseguridad IT/OT, Linux, CTF y automatización. Aprender. Construir. Proteger." />
 </picture>
-
-<p align="center"><sub>Aprender. Construir. Proteger. · Hacking ético en entornos autorizados.</sub></p>
