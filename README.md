@@ -4,6 +4,11 @@
 </picture>
 
 <picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/scan.png" />
+  <img src="./assets/scan.gif" width="100%" alt="" />
+</picture>
+
+<picture>
   <source media="(max-width: 1000px)" srcset="./assets/dashboard-mobile.svg" />
   <img src="./assets/dashboard.svg" width="100%" alt="Sobre mí: estudiante de Ingeniería Informática en Duoc UC. Tecnologías: Python, TypeScript, Bash, Linux, redes, Nmap, Docker, Git, React, PostgreSQL, AWS IoT y ESP32. Comunidad: CTF Llaitún, CITT, Cyb4Students y Voxti. Tres primeros lugares: ChronosCTF, Desafío de Innovación Entel 5G y Botathon Duoc UC–Teletón. Proyectos: nmap-pretty, medidor de agua IoT y laboratorios IT/OT. Busco oportunidades en ciberseguridad junior, SOC N1 o infraestructura. Lee la trayectoria completa más abajo." />
 </picture>
@@ -103,6 +108,8 @@ Escenarios de entrenamiento con Modbus TCP, semáforos, dispositivos embebidos, 
 </details>
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/terminal.png" />
-  <img src="./assets/terminal.gif" width="100%" alt="Terminal animada: Sebastián Porma Campos. Estudiante de Ingeniería Informática, Duoc UC. Ciberseguridad IT/OT, Linux, CTF y automatización. Aprender. Construir. Proteger." />
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 1000px)" srcset="./assets/terminal-mobile.png" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/terminal-v2.png" />
+  <source media="(max-width: 1000px)" srcset="./assets/terminal-mobile.gif" />
+  <img src="./assets/terminal-v2.gif" width="100%" alt="Terminal animada: Sebastián Porma Campos. Estudiante de Ingeniería Informática, Duoc UC. Ciberseguridad IT/OT, Linux, CTF y automatización. Aprender. Construir. Proteger." />
 </picture>
