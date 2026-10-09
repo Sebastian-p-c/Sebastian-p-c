@@ -117,3 +117,8 @@ Escenarios de entrenamiento con Modbus TCP, semáforos, dispositivos embebidos, 
   <source media="(max-width: 1000px)" srcset="./assets/terminal-mobile.gif" />
   <img src="./assets/terminal-v2.gif" width="100%" alt="Terminal animada: Sebastián Porma Campos. Estudiante de Ingeniería Informática, Duoc UC. Ciberseguridad IT/OT, Linux, CTF y automatización. Aprender. Construir. Proteger." />
 </picture>
+
+<picture>
+  <source media="(max-width: 1000px)" srcset="./assets/dragon-tech-mobile.gif" />
+  <img src="./assets/dragon-tech.gif" width="100%" alt="Dragón tecnológico de armadura oscura y circuitos verde menta, con alas y cola en movimiento sobre una plataforma holográfica. Animación en bucle continuo." />
+</picture>
