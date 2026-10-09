@@ -1,22 +1,28 @@
 <picture>
-  <source media="(max-width: 1000px)" srcset="./assets/banner-mobile.png" />
-  <img src="./assets/banner-desktop.svg" width="100%" alt="Hola, soy Sebastián Porma Campos. Estudiante de Ingeniería Informática · Duoc UC. Ciberseguridad IT/OT · Linux · CTF · Automatización." />
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 1000px)" srcset="./assets/banner-mobile.png" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/banner-desktop.svg" />
+  <source media="(max-width: 1000px)" srcset="./assets/banner-mobile-animated.svg" />
+  <img src="./assets/banner-animated.svg" width="100%" alt="Hola, soy Sebastián Porma Campos. Estudiante de Ingeniería Informática · Duoc UC. Ciberseguridad IT/OT · Linux · CTF · Automatización." />
 </picture>
 
 <picture>
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/scan.png" />
-  <img src="./assets/scan.gif" width="100%" alt="" />
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 1000px)" srcset="./assets/network-mobile.png" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/network.png" />
+  <source media="(max-width: 1000px)" srcset="./assets/network-mobile.gif" />
+  <img src="./assets/network.gif" width="100%" alt="Linux · Redes · IT/OT · Seguridad. Conexiones animadas decorativas." />
 </picture>
 
 <picture>
-  <source media="(max-width: 1000px)" srcset="./assets/dashboard-mobile.svg" />
-  <img src="./assets/dashboard.svg" width="100%" alt="Sobre mí: estudiante de Ingeniería Informática en Duoc UC. Tecnologías: Python, TypeScript, Bash, Linux, redes, Nmap, Docker, Git, React, PostgreSQL, AWS IoT y ESP32. Comunidad: CTF Llaitún, CITT, Cyb4Students y Voxti. Tres primeros lugares: ChronosCTF, Desafío de Innovación Entel 5G y Botathon Duoc UC–Teletón. Proyectos: nmap-pretty, medidor de agua IoT y laboratorios IT/OT. Busco oportunidades en ciberseguridad junior, SOC N1 o infraestructura. Lee la trayectoria completa más abajo." />
+  <source media="(prefers-reduced-motion: reduce) and (max-width: 1000px)" srcset="./assets/dashboard-mobile.svg" />
+  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/dashboard.svg" />
+  <source media="(max-width: 1000px)" srcset="./assets/dashboard-mobile-animated.svg" />
+  <img src="./assets/dashboard-animated.svg" width="100%" alt="Sobre mí: estudiante de Ingeniería Informática en Duoc UC. Tecnologías: Python, TypeScript, Bash, Linux, redes, Nmap, Docker, Git, React, PostgreSQL, AWS IoT y ESP32. Comunidad: CTF Llaitún, CITT, Cyb4Students y Voxti. Tres primeros lugares: ChronosCTF, Desafío de Innovación Entel 5G y Botathon Duoc UC–Teletón. Proyectos: nmap-pretty, medidor de agua IoT y laboratorios IT/OT. Busco oportunidades en ciberseguridad junior, SOC N1 o infraestructura. Lee la trayectoria completa más abajo." />
 </picture>
 
 <p align="center">
-  <a href="mailto:sebastianporma.campos@gmail.com"><img src="./assets/contact.svg" height="34" alt="Contacto por correo" /></a>
-  <a href="https://www.linkedin.com/in/sebasti%C3%A1n-fernando-porma-campos/"><img src="./assets/linkedin.svg" height="34" alt="LinkedIn" /></a>
-  <a href="https://github.com/Sebastian-p-c/nmap-pretty"><img src="./assets/nmap-pretty.svg" height="34" alt="Ver nmap-pretty" /></a>
+  <a href="mailto:sebastianporma.campos@gmail.com"><img src="./assets/contact-animated.svg" height="34" alt="Contacto por correo" /></a>
+  <a href="https://www.linkedin.com/in/sebasti%C3%A1n-fernando-porma-campos/"><img src="./assets/linkedin-animated.svg" height="34" alt="LinkedIn" /></a>
+  <a href="https://github.com/Sebastian-p-c/nmap-pretty"><img src="./assets/nmap-pretty-animated.svg" height="34" alt="Ver nmap-pretty" /></a>
 </p>
 
 <p align="center"><sub>Santiago, Chile · <a href="mailto:sebastianporma.campos@gmail.com">sebastianporma.campos@gmail.com</a></sub></p>
