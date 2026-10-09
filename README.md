@@ -1,8 +1,6 @@
 <picture>
-  <source media="(prefers-reduced-motion: reduce) and (max-width: 1000px)" srcset="./assets/banner-mobile.png" />
-  <source media="(prefers-reduced-motion: reduce)" srcset="./assets/banner-desktop.svg" />
-  <source media="(max-width: 1000px)" srcset="./assets/banner-mobile-animated.svg" />
-  <img src="./assets/banner-animated.svg" width="100%" alt="Hola, soy Sebastián Porma Campos. Estudiante de Ingeniería Informática · Duoc UC. Ciberseguridad IT/OT · Linux · CTF · Automatización." />
+  <source media="(max-width: 1000px)" srcset="./assets/banner-planet-mobile.gif" />
+  <img src="./assets/banner-planet.gif" width="100%" alt="Hola, soy Sebastián Porma Campos. Nombre escrito letra por letra y planeta Tierra en rotación continua. Estudiante de Ingeniería Informática · Duoc UC. Ciberseguridad IT/OT · Linux · CTF · Automatización." />
 </picture>
 
 <picture>
